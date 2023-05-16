@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rakshit Pandey
+<!-- ### Hi there 👋 I'm Rakshit Pandey -->
 
 <!--
 **pandey-rakshit/pandey-rakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...<h1 align="center">Hi 👋, I'm Rakshit Pandey</h1>
+- 😄 Pronouns: ...
+
+-->
+
+<h1 align="center">Hi 👋, I'm Rakshit Pandey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandey-rakshit&label=Profile%20views&color=0e75b6&style=flat" alt="pandey-rakshit" /> </p>
@@ -36,5 +40,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey-rakshit&" alt="pandey-rakshit" /></p>
 
+<!-- 
 - ⚡ Fun fact: ...
 -->
