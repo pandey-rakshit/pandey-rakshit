@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for opportunities<br>🌱 I’m currently learning React js
+🔭 I’m currently looking for opportunities<br>🌱
 
 
 ## 🌐 Socials:
